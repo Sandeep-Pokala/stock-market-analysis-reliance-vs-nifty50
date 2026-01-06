@@ -13,8 +13,6 @@ Thumbs.db
 # Logs
 *.log  
 
-# Ignore raw data
-Data/raw/
 
 # Ignore system files
 .ipynb_checkpoints/
